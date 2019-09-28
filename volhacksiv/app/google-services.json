@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "37854318311",
+    "firebase_url": "https://volhacksiv.firebaseio.com",
+    "project_id": "volhacksiv",
+    "storage_bucket": "volhacksiv.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37854318311:android:446a9749c2a8de9f4a9c42",
+        "android_client_info": {
+          "package_name": "com.swearRoulette.volhacksiv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "37854318311-e29k3cro6rdo2j6hvpk507a5gn726ar1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.swearRoulette.volhacksiv",
+            "certificate_hash": "a47505bfd40366f28ada37241e48d0cdc9c40730"
+          }
+        },
+        {
+          "client_id": "37854318311-t4t44o7588hs4eden8a9ks9vn4edfrsj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmuiE3ktb5bGQRq6FUswHvy0LPrK345xw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "37854318311-t4t44o7588hs4eden8a9ks9vn4edfrsj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">volhacksiv</string>
+    <string name="enterPhone">Join/Login</string>
+    <string name="start">Start New Game</string>
+    <string name="findFriend">Enter a Friends Phone Number</string>
+    <string name="search">Search</string>
+</resources>
